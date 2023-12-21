@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "38ab3b32e176050d",
+        "id": "0f89e3da990cfa6e",
         "type": "tabs",
         "children": [
           {
-            "id": "fb0f1eaf3fb06986",
+            "id": "882980736036004d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Week 1/1.5. Async, Await and Promises.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Week 1/1.5. Async, Await and Promises.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Week 1/1.5. Async, Await and Promises.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Week 1/1.5. Async, Await and Promises.md"
+              }
             }
           }
         ]
@@ -138,13 +146,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fb0f1eaf3fb06986",
+  "active": "e63094377a9981bd",
   "lastOpenFiles": [
+    "Async vs sync review.md",
+    "Week 1/1.5. Async, Await and Promises.md",
+    "Week 1/Foundation 🏠.md",
+    "Week 2",
+    "Week 1/questions/JS Execution Time.md",
+    "Week 1/questions/Terminal clock 🕐.md",
     "01-js/medium/palindrome.js.md",
-    "JS Foundations/Foundation 🏠.md",
-    "JS Foundations/1.5. Async, Await and Promises.md",
-    "Foundation Questions/Terminal clock 🕐.md",
-    "Foundation Questions/JS Execution Time.md",
     "Async, Await, Promises/UntitledUntitled.md",
     "Async, Await, Promises",
     "Untitled.canvas",
@@ -156,7 +166,7 @@
     "01-js/medium",
     "01-js/easy",
     "01-js",
-    "Foundation Questions",
-    "JS Foundations"
+    "Week 1/questions",
+    "Week 1"
   ]
 }
