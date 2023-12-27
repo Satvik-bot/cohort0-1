@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0f89e3da990cfa6e",
+        "id": "6c90d2bd3b15a09f",
         "type": "tabs",
         "children": [
           {
-            "id": "882980736036004d",
+            "id": "3468a5b9fd4b9e3f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 1/1.5. Async, Await and Promises.md",
+                "file": "Async vs sync review.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week 1/1.5. Async, Await and Promises.md",
+                "file": "Async vs sync review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Week 1/1.5. Async, Await and Promises.md",
+                "file": "Async vs sync review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week 1/1.5. Async, Await and Promises.md"
+                "file": "Async vs sync review.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "e63094377a9981bd",
   "lastOpenFiles": [
-    "Async vs sync review.md",
     "Week 1/1.5. Async, Await and Promises.md",
+    "Async vs sync review.md",
     "Week 1/Foundation 🏠.md",
     "Week 2",
     "Week 1/questions/JS Execution Time.md",
